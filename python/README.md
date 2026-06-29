@@ -24,7 +24,7 @@ leetcode-solutions/
 │   ├── 0001_two_sum.py
 │   ├── 0009_palindrome_number.py
 │   ├── 0049_group_anagrams.py
-│   └── ...
+│   └── 1947_number_of_strings.py
 │
 └── README.md
 ```
@@ -36,6 +36,7 @@ leetcode-solutions/
 | 1  | Two Sum           | Easy       |
 | 9  | Palindrome Number | Easy       |
 | 49 | Group Anagrams    | Medium     |
+| 1967| NOSTAASIw        | easy      |
 
 > This repository is updated regularly as I solve more LeetCode problems.
 
